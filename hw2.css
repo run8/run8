@@ -1,0 +1,56 @@
+* {
+    font-family: monospace;
+    background-color: lightgray
+}
+book_catalog {
+    display: table;
+    width: 100%;
+    border: thin solid black;
+/*    border-spacing: 2px;*/
+}
+title {
+    display: table-caption;
+    font-size: 90%;
+    text-align: center;
+    padding: 5px;
+}
+/*
+cols {
+    display: table-column-group;
+    
+}
+*/
+/*
+cols Title, cols Author, cols Publisher {
+    display: table-column;
+}
+*/
+bookTitle {
+    color: red;
+    font-weight: bold
+}
+headings {
+    display: table-header-group;
+}
+records {
+    display: table-row-group;
+    
+}
+record {
+    display: table-row;   
+}
+record > * {
+    display: table-cell;
+    padding: 5px;
+}
+footers > record > *, headings > record > * {
+    border: thin solid black;
+    text-align: center;
+    font-weight: bold;
+}
+records > record > * {
+    font-size: 120%;
+}
+record:nth-child(even) {
+    background-color: lightblue;
+}

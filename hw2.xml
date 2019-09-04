@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="hw2.css"?>
+<!--"Books are being donated by instructors and publishers"-->
+
+<book_catalog>
+    <title>
+        Book Catalog
+    </title>
+<!--
+    <cols>
+        <MyColumn1 />
+        <MyColumn2 />
+    </cols>
+-->
+    <headings>
+        <record>
+            <MyColumn1>Title</MyColumn1>
+            <MyColumn2>Author</MyColumn2>
+            <MyColumn3>Publisher</MyColumn3>
+        </record>
+    </headings>
+    <records>
+        <record>
+            <bookTitle>Introduction to HTML</bookTitle>
+            <Author>Adam Douglas &amp; Janice Dall</Author>
+            <Publisher>Cengage©</Publisher>
+            <pages units="155"></pages>
+        </record>
+        <record>
+            <bookTitle>Soft Skills in IT</bookTitle>
+            <Author>Mark Hunter</Author>
+            <Publisher>Bolding Publisher©</Publisher>
+            <pages units="233"></pages>
+        </record>
+        <record>
+            <bookTitle>Network Security</bookTitle>
+            <Author>Jennifer Starter &amp; Yuri Adantov</Author>
+            <Publisher>Bolding Publisher©</Publisher>
+            <pages units="155"></pages>
+        </record>
+        <record>
+            <bookTitle>XML &amp; JSON</bookTitle>
+            <Author>Stuart Bell</Author>
+            <Publisher>Cengage©</Publisher>
+            <pages units="345"></pages>
+        </record>
+    </records>
+
+</book_catalog>
