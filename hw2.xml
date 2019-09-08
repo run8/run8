@@ -6,12 +6,10 @@
     <title>
         Book Catalog
     </title>
-<!--
     <cols>
         <MyColumn1 />
         <MyColumn2 />
     </cols>
--->
     <headings>
         <record>
             <MyColumn1>Title</MyColumn1>
