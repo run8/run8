@@ -6,17 +6,18 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <head>
 <title>List of Clients</title>
 <style>
-  table, th, td { border: 1px double black; }
-  th { background-color: lime; }
+  table, th, td { border: 1px double blue; }
+  th { background-color: white; }
   .bgred { background-color: red; color: white; }
 </style>
 </head>
 <body>
-  <h2>List of Clients</h2>
+    <h1>List of Clients</h1>
   <table>
     <tr>
-      <th>Title</th>
-      <th>Artist</th>
+      <th>Name</th>
+      <th>Phone</th>
+      <th>Account Total</th>
     </tr>
     <xsl:for-each select="catalog/cd">
     <tr>
