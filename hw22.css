@@ -1,0 +1,12 @@
+bookCatalog {
+background: #D8D8D8;
+width: 75%;
+margin: auto;
+}
+book{
+display: block;
+padding: 25px;
+}
+book:nth-of-type(odd) {
+background-color: #B2DBFF;
+}
