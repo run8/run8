@@ -1,4 +1,5 @@
-<xsl:stylesheet xmlns:xsl=http://www.w3.org/1999/XSL/Transformversion="2.0"> </xsl:stylesheet> 
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform"> 
 <xsl:template match="/">
 
     <html>
@@ -12,9 +13,14 @@
                 <th>Tel</th>
                 <th>Email</th>
             </tr>
+            
+<!--            Step 3 for-each of the PERSON elements-->
             <xsl:for-each select="people/person">
+                
                 <tr>
+<!--                    Step 5 select the address element, send the value as output-->
                     <td>
+                        <xsl:value-of select="name"/>
                         Address field will go here
                     </td>
                     <td>
