@@ -4,7 +4,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
 <html>
 <head>
-<title>Catalog of CDs</title>
+<title>List of Clients</title>
 <style>
   table, th, td { border: 1px double black; }
   th { background-color: lime; }
@@ -12,7 +12,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </style>
 </head>
 <body>
-  <h2>My CD Collection</h2>
+  <h2>List of Clients</h2>
   <table>
     <tr>
       <th>Title</th>
