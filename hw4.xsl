@@ -8,8 +8,8 @@
             <title>ABC Financial Startup</title>
             <style>
                 h1 {
-                    border-top-style: double;
-                    border-top-color: #A9A9A9
+                    border: 2px solid blue;
+                    border-top-color: #blue
                 }
 
                 img {
