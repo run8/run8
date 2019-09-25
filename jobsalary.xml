@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="jobsalary.xsl"?>
+<jobsalary>
+  <report id="1">
+    <name>Opal Kole</name>
+    <salary>1130.00</salary>
+    <address>63 street Ct.</address>
+    <contact>000-444-8291</contact>       
+  </report>
+  <report id="2">
+    <name>Max Miller</name>
+    <salary>1210.00</salary>
+    <address>41 NEW ROAD.</address>
+    <contact>000-444-8736</contact>   
+  </report>
+  <report id="3">
+    <name>Beccaa Moss</name>
+    <salary>1375.00</salary>
+    <address>2500 green city.</address>
+    <contact>000-444-8030</contact>       
+  </report>
+  <report id="4">
+    <name>Paul Singh</name>
+    <salary>1300.00</salary>
+    <address>1343 Prospect St</address>
+    <contact>000-444-8029</contact>       
+  </report> 
+  <report id="5">
+    <name>Ken Myer</name>
+    <salary>1250.00</salary>
+    <address>137 Clay Road</address>
+    <contact>000-444-7972</contact>       
+  </report>     
+</jobsalary>
