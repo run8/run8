@@ -17,6 +17,7 @@
                     margin-left: auto;
                     margin-right: auto;
                 }
+
             </style>
         </head>
 
@@ -42,7 +43,7 @@
             </p>
 
             <p>
-                <xsl:value-of select="count(Accounts/Client[Years &gt; 7])" /> of our clients are with us for more than 7 years!
+                <xsl:value-of select="count(Accounts/Client[Years &gt; 7])" /> of our clients have been with us for more than 7 years!
             </p>
 
         </body>
