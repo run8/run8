@@ -3,6 +3,7 @@
     <xsl:output method="html" />
     <xsl:template match="/">
         <html>
+
         <head>
             <title>List of Clients</title>
             <style>
@@ -10,18 +11,19 @@
                 td {
                     border: 2px solid blue;
                 }
+
             </style>
         </head>
+
         <body>
             <h1> List of Clients</h1>
             <table>
                 <tr>
                     <th>Name</th>
-                    <th>Years</th>
-
                     <th>Phone</th>
                     <th>Email</th>
                     <th>Account Total</th>
+                    <th>Years</th>
                 </tr>
                 <xsl:for-each select="Accounts/Client">
                     <xsl:sort select="Name/Last" />
@@ -48,6 +50,7 @@
                 </xsl:for-each>
             </table>
         </body>
+
         </html>
     </xsl:template>
 </xsl:stylesheet>
