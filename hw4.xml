@@ -8,6 +8,8 @@
             <First>Grant</First>
             <Last>Wu</Last>
         </Name>
+        <Years>5
+        </Years>
         <Address>
             <Street>55 Hawking Street</Street>
             <City>Delton</City>
@@ -25,6 +27,8 @@
             <First>Cynthia</First>
             <Last>Browne</Last>
         </Name>
+        <Years>6
+        </Years>
         <Address>
             <Street>71 Circuit Ct.</Street>
             <City>Wheaton</City>
@@ -42,6 +46,8 @@
             <First>Robert</First>
             <Last>Olson</Last>
         </Name>
+        <Years>7
+        </Years>
         <Address>
             <Street>5133 Oak Street</Street>
             <City>Delton</City>
@@ -58,6 +64,8 @@
             <First>Steve</First>
             <Last>Bones</Last>
         </Name>
+        <Years>8
+        </Years>
         <Address>
             <Street>900 Lawton Street</Street>
             <City>Wheaton</City>
@@ -74,6 +82,8 @@
             <First>Jim</First>
             <Last>Wheatley</Last>
         </Name>
+        <Years>9
+        </Years>
         <Address>
             <Street>Hawkes Lane</Street>
             <City>Delton</City>
@@ -90,6 +100,8 @@
             <First>Cindy</First>
             <Last>Kaufmann</Last>
         </Name>
+        <Years>10
+        </Years>
         <Address>
             <Street>31 Alice Avenue</Street>
             <City>Delton</City>
@@ -106,6 +118,8 @@
             <First>Lee</First>
             <Last>Hayes</Last>
         </Name>
+        <Years>11
+        </Years>
         <Address>
             <Street>451 Unwin Ct.</Street>
             <City>Jasper</City>
@@ -122,6 +136,8 @@
             <First>Jane</First>
             <Last>Wilson</Last>
         </Name>
+        <Years>12
+        </Years>
         <Address>
             <Street>87 Hilltop Drive</Street>
             <City>Jasper</City>
