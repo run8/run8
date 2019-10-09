@@ -1,6 +1,20 @@
 <?xml version="1.0" ?>
-<!DOCTYPE Products SYSTEM "Products.dtd">
+<!--<!DOCTYPE Products SYSTEM "Products.dtd">-->
+<!DOCTYPE Products [
+<!ENTITY MIU "Made In USA">
+<!ELEMENT Products (Prod+)>
+        <!ATTLIST Prod ProdID ID #REQUIRED>
+<!ELEMENT Prod (Details, Quantity, Unit_Price, Color?, Loc)>
 
+<!ELEMENT Details (Short_Desc, Long_Desc)>
+<!ELEMENT Short_Desc (#PCDATA)>
+<!ELEMENT Long_Desc (#PCDATA)>
+
+<!ELEMENT Quantity (#PCDATA)>
+<!ELEMENT Unit_Price  (#PCDATA)>
+<!ELEMENT Color (#PCDATA)>
+<!ELEMENT Loc (#PCDATA)>
+]>
 <Products>
 
     <Prod ProdID="P00129934">
