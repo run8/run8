@@ -4,12 +4,12 @@
         <!ATTLIST Prod ProdID ID #REQUIRED>
 <!ELEMENT Prod (Details, Quantity, Unit_Price, Color?, Loc)>
 
-<!ELEMENT Details (Short_Desc, Long_Desc)>
 <!ELEMENT Short_Desc (#PCDATA)>
 <!ELEMENT Long_Desc (#PCDATA)>
+<!ELEMENT Details (Short_Desc, Long_Desc)>
 
-<!ELEMENT Quantity (#PCDATA)>
 <!ELEMENT Unit_Price  (#PCDATA)>
-<!ELEMENT Color (#PCDATA)>
+<!ELEMENT Quantity (#PCDATA)>
+
 <!ELEMENT Loc (#PCDATA)>
 ]>

@@ -8,8 +8,7 @@
             <First>Grant</First>
             <Last>Wu</Last>
         </Name>
-        <Years>5
-        </Years>
+      
         <Address>
             <Street>55 Hawking Street</Street>
             <City>Delton</City>
@@ -20,6 +19,8 @@
         <E-mail>gwu@brockton.com</E-mail>
         <Account_Total>60000
         </Account_Total>
+          <Years>5
+        </Years>
     </Client>
 
     <Client ID="CS5108">
@@ -27,8 +28,7 @@
             <First>Cynthia</First>
             <Last>Browne</Last>
         </Name>
-        <Years>6
-        </Years>
+       
         <Address>
             <Street>71 Circuit Ct.</Street>
             <City>Wheaton</City>
@@ -39,6 +39,8 @@
         <E-mail>cynthia@brownes.com</E-mail>
         <Account_Total>80000
         </Account_Total>
+         <Years>6
+        </Years>
     </Client>
 
     <Client ID="CS5331">
@@ -46,8 +48,7 @@
             <First>Robert</First>
             <Last>Olson</Last>
         </Name>
-        <Years>7
-        </Years>
+        
         <Address>
             <Street>5133 Oak Street</Street>
             <City>Delton</City>
@@ -57,6 +58,8 @@
         <Phone>(532) 555-8981</Phone>
         <E-mail>rolson@delisp.net</E-mail>
         <Account_Total>25000</Account_Total>
+        <Years>7
+        </Years>
     </Client>
 
     <Client ID="CS5771">
@@ -64,8 +67,7 @@
             <First>Steve</First>
             <Last>Bones</Last>
         </Name>
-        <Years>8
-        </Years>
+        
         <Address>
             <Street>900 Lawton Street</Street>
             <City>Wheaton</City>
@@ -75,6 +77,8 @@
         <Phone>(533) 555-5434</Phone>
         <E-mail>Sbone@mail.com</E-mail>
         <Account_Total>105000</Account_Total>
+        <Years>8
+        </Years>
     </Client>
 
     <Client ID="CS5981">
@@ -82,8 +86,7 @@
             <First>Jim</First>
             <Last>Wheatley</Last>
         </Name>
-        <Years>9
-        </Years>
+       
         <Address>
             <Street>Hawkes Lane</Street>
             <City>Delton</City>
@@ -93,6 +96,8 @@
         <Phone>(542) 555-8828</Phone>
         <E-mail>jim_wheatley@kyu.edu</E-mail>
         <Account_Total>83000</Account_Total>
+         <Years>9
+        </Years>
     </Client>
 
     <Client ID="CS5308">
@@ -100,8 +105,7 @@
             <First>Cindy</First>
             <Last>Kaufmann</Last>
         </Name>
-        <Years>10
-        </Years>
+        
         <Address>
             <Street>31 Alice Avenue</Street>
             <City>Delton</City>
@@ -111,6 +115,8 @@
         <Phone>(532) 555-7212</Phone>
         <E-mail>cka@ispnet.net</E-mail>
         <Account_Total>125000</Account_Total>
+        <Years>10
+        </Years>
     </Client>
 
     <Client ID="CS5250">
@@ -118,8 +124,7 @@
             <First>Lee</First>
             <Last>Hayes</Last>
         </Name>
-        <Years>11
-        </Years>
+       
         <Address>
             <Street>451 Unwin Ct.</Street>
             <City>Jasper</City>
@@ -129,6 +134,8 @@
         <Phone>(534) 555-9082</Phone>
         <E-mail>leehayes@clarion.net</E-mail>
         <Account_Total>118000</Account_Total>
+         <Years>11
+        </Years>
     </Client>
 
     <Client ID="CS5981">
@@ -136,8 +143,7 @@
             <First>Jane</First>
             <Last>Wilson</Last>
         </Name>
-        <Years>12
-        </Years>
+        
         <Address>
             <Street>87 Hilltop Drive</Street>
             <City>Jasper</City>
@@ -147,6 +153,8 @@
         <Phone>(534) 555-7493</Phone>
         <E-mail>jwilson@cls.net</E-mail>
         <Account_Total>95000</Account_Total>
+        <Years>12
+        </Years>
     </Client>
 
 </Accounts>
