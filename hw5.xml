@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Products SYSTEM "Products.dtd">
+
+<Products>
+
+    <Prod ProdID="P00129934">
+        <Details>
+            <Short_Desc>Website Magazine</Short_Desc>
+            <Long_Desc>Printed issue Website Magazine</Long_Desc>
+        </Details>
+        <Quantity>20</Quantity>
+        <Unit_Price>3.50</Unit_Price>
+        <Loc>Made in USA</Loc>
+    </Prod>
+
+    <Prod ProdID="P1234567">
+        <Details>
+            <Short_Desc>Lab Apron</Short_Desc>
+            <Long_Desc>Chemistry Lab Apron</Long_Desc>
+        </Details>
+        <Quantity>30</Quantity>
+        <Unit_Price>5.50</Unit_Price>
+        <Color>White</Color>
+        <Loc>Made in USA</Loc>
+    </Prod>
+
+    <Prod ProdID="P3256788">
+        <Details>
+            <Short_Desc>T-Shirt</Short_Desc>
+            <Long_Desc>College cotton shirt</Long_Desc>
+        </Details>
+        <Quantity>28</Quantity>
+        <Unit_Price>6.50</Unit_Price>
+        <Color>Red</Color>
+        <Loc>Made in USA</Loc>
+    </Prod>
+
+    <Prod ProdID="P0025443">
+        <Details>
+            <Short_Desc>Notebook</Short_Desc>
+            <Long_Desc>5-Subject Notebook</Long_Desc>
+        </Details>
+        <Quantity>15</Quantity>
+        <Unit_Price>2.65</Unit_Price>
+        <Loc>Made in USA</Loc>
+    </Prod>
+
+</Products>
